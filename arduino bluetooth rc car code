@@ -1,3 +1,6 @@
+#I created an RC Bluetooth Car. I incorporated a ultrasonic senosr in my circuit to measure the distance away from a certain object and a voltmeter to test voltage outputs.
+
+
 #include <Adafruit_BLE_UART.h>
 #include <Adafruit_ATParser.h>
 #include <Adafruit_BluefruitLE_SPI.h>
